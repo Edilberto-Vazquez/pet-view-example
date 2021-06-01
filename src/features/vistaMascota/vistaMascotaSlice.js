@@ -37,7 +37,7 @@ export const slice = createSlice({
           vaccine_name: "Tetanos",
         },
       ],
-      medicalRecord: [
+      consultations: [
         {
           date: "2021-02-12T23:13:00.880397",
           datedrecord_id: "01EYC89QYGBQ9VZCQQFFA2MDSZ",

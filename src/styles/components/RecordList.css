@@ -1,0 +1,16 @@
+.record-item {
+  height: 75px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+.record-item span {
+  font-size: 2rem;
+}
+
+.record-item button {
+  width: 100px;
+  height: 35px;
+  border-radius: 10px;
+}

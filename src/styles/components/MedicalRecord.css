@@ -1,0 +1,17 @@
+.medical-record {
+  width: 1000px;
+  height: auto;
+  background: #81f5ff;
+}
+
+.medical-record-header {
+  padding: 10px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  border: 2px solid black;
+}
+
+.medical-record-header span {
+  font-size: 3rem;
+}
